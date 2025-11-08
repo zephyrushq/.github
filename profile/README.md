@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://zephyrus.pt" target="_blank">
-    <img src="" alt="Banner" />
+    <img src="https://github.com/zephyruspt/.github/blob/main/assets/img/banner.png?raw=true" alt="Banner" />
   </a>
 
   <a href="https://zephyrus.pt" target="_blank">
