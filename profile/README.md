@@ -5,7 +5,7 @@
   </a>
 
   <a href="https://zephyrus.pt" target="_blank">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fbitwo.io&style=badge" alt="Website" />
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fzephyrus.pt&style=badge" alt="Website" />
   </a>
 
   <a href="https://zephyrus.pt" target="_blank"> 
