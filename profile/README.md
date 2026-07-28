@@ -1,14 +1,14 @@
 <div align="center">
 
-  <a href="https://zephyrus.pt" target="_blank">
+  <a href="https://zephyrushq.com" target="_blank">
     <img src="https://github.com/zephyruspt/.github/blob/main/assets/img/banner.png?raw=true" alt="Banner" />
   </a>
 
-  <a href="https://zephyrus.pt" target="_blank">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fzephyrus.pt&style=badge" alt="Website" />
+  <a href="https://zephyrushq.com" target="_blank">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fzephyrushq.com&style=badge" alt="Website" />
   </a>
 
-  <a href="https://zephyrus.pt" target="_blank"> 
+  <a href="https://zephyrushq.com" target="_blank"> 
     <img src="https://visitor-badge.laobi.icu/badge?page_id=zephyruspt.zephyruspt" alt="Visitors" />
   </a>
   
