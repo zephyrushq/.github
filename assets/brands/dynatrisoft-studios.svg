@@ -1,17 +1,39 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="270" viewBox="0 0 400 270" role="img" aria-labelledby="title description">
   <title id="title">DynatriSoft Studios</title>
-  <desc id="description">DynatriSoft Studios, a brand of Zephyrus Prosperity.</desc>
-  <defs xmlns="http://www.w3.org/2000/svg"><linearGradient id="blue" gradientUnits="userSpaceOnUse" x1="244" y1="210" x2="773" y2="814"><stop stop-color="#38BDF8" /><stop offset="0.5" stop-color="#1687F4" /><stop offset="1" stop-color="#2450D8" /></linearGradient></defs>
-  <rect x="1" y="1" width="398" height="268" rx="18" fill="#11151d" stroke="#303846"/>
-  <path d="M25 1H375" stroke="#38bdf8" stroke-width="2"/>
-  <circle cx="352" cy="64" r="62" fill="#38bdf8" opacity=".04"/>
-  <circle cx="352" cy="64" r="86" fill="none" stroke="#38bdf8" stroke-opacity=".12"/>
-  <text x="24" y="31" fill="#aab4c3" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">ZEPHYRUS / BRANDS</text>
-  <svg x="153" y="53" width="94" height="108" viewBox="244 210 529 604"><g xmlns="http://www.w3.org/2000/svg" fill="url(#blue)"><path id="stem" d="M244 210 L425 391 V633 L336 722 V444 L244 352 Z" />
-<path id="bowl" d="M350 279 H540 A233 233 0 0 1 540 745 H429 L266 814 L446 656 H540 A144 144 0 0 0 540 368 H439 Z" />
-<path id="star" d="M550 443.25 C560 490.75 571.25 502 618.75 512 C571.25 522 560 533.25 550 580.75 C540 533.25 528.75 522 481.25 512 C528.75 502 540 490.75 550 443.25 Z" /></g></svg>
-  <path d="M24 179H376" stroke="#303846"/>
-  <text x="24" y="216" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">DynatriSoft Studios</text>
-  <text x="24" y="244" fill="#aab4c3" font-family="Arial, Helvetica, sans-serif" font-size="13">Part of Zephyrus Prosperity</text>
-  <rect x="368" y="237" width="8" height="8" rx="2" fill="#38bdf8"/>
+  <desc id="description">DynatriSoft Studios, a Zephyrus Prosperity brand. Visit dynatrisoft.com.</desc>
+  <defs>
+    <clipPath id="card"><rect x="1" y="1" width="398" height="268" rx="18"/></clipPath>
+    <linearGradient id="light" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffffff" stop-opacity=".18"/><stop offset=".65" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#card)">
+    <path d="M0 0H400V270H0Z" fill="#1877F2"/>
+    <path d="M0 0H400V270H0Z" fill="url(#light)"/>
+    <g fill="none" stroke="#000000">
+      <circle cx="305" cy="100" r="53" stroke-opacity=".14"/>
+      <circle cx="305" cy="100" r="76" stroke-opacity=".12"/>
+      <circle cx="305" cy="100" r="100" stroke-opacity=".08"/>
+      <path d="M185 100H391M305 45V166" stroke-opacity=".12" stroke-dasharray="3 5"/>
+    </g>
+    <g fill="#000000" opacity=".18">
+      <path d="M305 57Q311 94 348 100Q311 106 305 143Q299 106 262 100Q299 94 305 57Z"/>
+      <path d="M205 50Q207 61 218 63Q207 65 205 76Q203 65 192 63Q203 61 205 50Z"/>
+      <circle cx="355" cy="42" r="3"/><circle cx="238" cy="145" r="2"/>
+    </g>
+    <path d="M0 179H400V270H0Z" fill="#000000" opacity=".04"/>
+    <path d="M24 179H376" stroke="#000000" stroke-opacity=".22"/>
+    <path d="M24 179H70" stroke="#000000" stroke-width="3"/>
+  </g>
+  <rect x="1.5" y="1.5" width="397" height="267" rx="17" fill="none" stroke="#000000" stroke-opacity=".12"/>
+  <text x="24" y="32" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.7">ZEPHYRUS / BRANDS</text>
+  <rect x="340" y="19" width="36" height="22" rx="11" fill="#000000"/>
+  <text x="358" y="34" fill="#1877F2" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" text-anchor="middle">02</text>
+  <svg x="28" y="57" width="110" height="104" viewBox="244 210 529 604"><g xmlns="http://www.w3.org/2000/svg" fill="#000000"><path d="M244 210 L425 391 V633 L336 722 V444 L244 352 Z" />
+<path d="M350 279 H540 A233 233 0 0 1 540 745 H429 L266 814 L446 656 H540 A144 144 0 0 0 540 368 H439 Z" />
+<path d="M550 443.25 C560 490.75 571.25 502 618.75 512 C571.25 522 560 533.25 550 580.75 C540 533.25 528.75 522 481.25 512 C528.75 502 540 490.75 550 443.25 Z" /></g></svg>
+  <text x="24" y="213" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="-.5">DynatriSoft Studios</text>
+  <text x="24" y="246" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing=".5">dynatrisoft.com</text>
+  <rect x="342" y="225" width="34" height="30" rx="8" fill="#000000"/>
+  <path d="M353 245 365 233M354 233H365V244" fill="none" stroke="#1877F2" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
