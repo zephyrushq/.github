@@ -28,6 +28,15 @@ This is the home of **Zephyrus Prosperity** on GitHub. Discover our public repos
 - **Work with us** — discover our [services](https://zephyrushq.com/en/services) and [get in touch](https://zephyrushq.com/en/contact).
 - **Get to know us** — learn more [about the company](https://zephyrushq.com/en/about).
 
+### Our brands
+
+**Nexlo Games** and **DynatriSoft Studios** are part of Zephyrus Prosperity.
+
+<p align="center">
+  <a href="https://nexlogames.com"><img src="../assets/brands/nexlo-games.svg" alt="Nexlo Games — a Zephyrus Prosperity brand" width="400" /></a>
+  <a href="https://dynatrisoft.com"><img src="../assets/brands/dynatrisoft-studios.svg" alt="DynatriSoft Studios — a Zephyrus Prosperity brand" width="400" /></a>
+</p>
+
 ---
 
 <p align="center">

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="270" viewBox="0 0 400 270" role="img" aria-labelledby="title description">
+  <title id="title">DynatriSoft Studios</title>
+  <desc id="description">DynatriSoft Studios, a brand of Zephyrus Prosperity.</desc>
+  <defs xmlns="http://www.w3.org/2000/svg"><linearGradient id="blue" gradientUnits="userSpaceOnUse" x1="244" y1="210" x2="773" y2="814"><stop stop-color="#38BDF8" /><stop offset="0.5" stop-color="#1687F4" /><stop offset="1" stop-color="#2450D8" /></linearGradient></defs>
+  <rect x="1" y="1" width="398" height="268" rx="18" fill="#11151d" stroke="#303846"/>
+  <path d="M25 1H375" stroke="#38bdf8" stroke-width="2"/>
+  <circle cx="352" cy="64" r="62" fill="#38bdf8" opacity=".04"/>
+  <circle cx="352" cy="64" r="86" fill="none" stroke="#38bdf8" stroke-opacity=".12"/>
+  <text x="24" y="31" fill="#aab4c3" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">ZEPHYRUS / BRANDS</text>
+  <svg x="153" y="53" width="94" height="108" viewBox="244 210 529 604"><g xmlns="http://www.w3.org/2000/svg" fill="url(#blue)"><path id="stem" d="M244 210 L425 391 V633 L336 722 V444 L244 352 Z" />
+<path id="bowl" d="M350 279 H540 A233 233 0 0 1 540 745 H429 L266 814 L446 656 H540 A144 144 0 0 0 540 368 H439 Z" />
+<path id="star" d="M550 443.25 C560 490.75 571.25 502 618.75 512 C571.25 522 560 533.25 550 580.75 C540 533.25 528.75 522 481.25 512 C528.75 502 540 490.75 550 443.25 Z" /></g></svg>
+  <path d="M24 179H376" stroke="#303846"/>
+  <text x="24" y="216" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">DynatriSoft Studios</text>
+  <text x="24" y="244" fill="#aab4c3" font-family="Arial, Helvetica, sans-serif" font-size="13">Part of Zephyrus Prosperity</text>
+  <rect x="368" y="237" width="8" height="8" rx="2" fill="#38bdf8"/>
+</svg>

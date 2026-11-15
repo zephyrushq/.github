@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="270" viewBox="0 0 400 270" role="img" aria-labelledby="title description">
+  <title id="title">Nexlo Games</title>
+  <desc id="description">Nexlo Games, a brand of Zephyrus Prosperity.</desc>
+
+  <rect x="1" y="1" width="398" height="268" rx="18" fill="#11151d" stroke="#303846"/>
+  <path d="M25 1H375" stroke="#ffcc00" stroke-width="2"/>
+  <circle cx="352" cy="64" r="62" fill="#ffcc00" opacity=".04"/>
+  <circle cx="352" cy="64" r="86" fill="none" stroke="#ffcc00" stroke-opacity=".12"/>
+  <text x="24" y="31" fill="#aab4c3" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2">ZEPHYRUS / BRANDS</text>
+  <svg x="142" y="53" width="116" height="108" viewBox="0 0 600 460"><g xmlns="http://www.w3.org/2000/svg" fill="#ffcc00">
+    <path d="M86 4H132Q142 4 151 15L427 330Q433 338 441 332Q459 318 459 292V157Q459 107 410 107H291L200 2H467C543 2 597 53 597 126V336C597 410 547 456 475 456H384Q373 456 365 447L139 194V456H91C36 456 4 421 4 366V94C4 39 36 4 86 4Z" />
+    <path d="M181 301L319 456H181Z" />
+  </g>
+</svg>
+  <path d="M24 179H376" stroke="#303846"/>
+  <text x="24" y="216" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Nexlo Games</text>
+  <text x="24" y="244" fill="#aab4c3" font-family="Arial, Helvetica, sans-serif" font-size="13">Part of Zephyrus Prosperity</text>
+  <rect x="368" y="237" width="8" height="8" rx="2" fill="#ffcc00"/>
+</svg>
